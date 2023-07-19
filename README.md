@@ -1,0 +1,1 @@
+# Cosmos-dotnet-change-feed-wire-format-metadata
