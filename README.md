@@ -46,7 +46,7 @@ Without wire format in ChangeFeedIteatorWithoutWiredFormatResponseAsync, returni
         _etag: "",
         _attachments: "",
         _ts: 1689719645
-        _lsn: 2
+        _lsn: 1
     }
 
 ## Running this sample
